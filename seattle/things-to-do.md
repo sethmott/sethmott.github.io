@@ -17,7 +17,7 @@ Seattle summers are simply incredible. Days are long and temperatures are pleasa
   
     <div style="text-align:center"><img src ="./lake-union-tour.jpg" width="700"/></div>
   
-  - Consider visiting **Vashon Island**. You take the **Fauntleroy-Southworth ferry** from West Seattle and get off on Vashon Island. There is a big uphill initially but once you get to the top the rest of the bike ride is not too bad. Downtown Vashon is quaint and has some good restaurants. There are lots of good parks and beaches on Vashon as well. On a beautiful day, the ferry ride alone is worth it. You pay about $5 per person and don't pay extra to get your bike on the ferry. The ferry back to Seattle from Vashon is free.
+  - Consider visiting **Vashon Island**. You take the **Fauntleroy-Southworth ferry** from West Seattle and get off on Vashon Island. There is a big uphill initially but once you get to the top the rest of the bike ride is not too bad. I recommend riding the back all the way back to Maury in the South of Vashon Island and then heading back North to Downtown Vashon, where you will find some good restaurants. Make sure to take enough water and food with you. There are lots of good parks and beaches on Vashon as well. On a beautiful day, the ferry ride alone is worth it. You pay about $5 per person and don't pay extra to get your bike on the ferry. The ferry back to Seattle from Vashon is free.
 
     <div style="text-align:center"><img src ="./vashon-tour.jpg" width="700"/></div>
 
