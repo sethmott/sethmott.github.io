@@ -1,18 +1,17 @@
-# Things to do in Seattle
-
-## During the warm months (usually from beginning of May to end of October)
+## Things to do in Seattle
 
 Seattle summers are simply incredible. Days are long and temperatures are pleasantly warm but it's rare for it to get too hot because summers are usually pretty dry. During the winter months, Seattle can get cold, although cold is a relative term. If you're from California, Spain or Mexico, you'd probably say Seattle is cold during the Winter. If you're from Canada, northern Europe or the Northeast United States, then you're in luck, because usually all you need is a raincoat and a warm shirt underneath. It's true that Seattle is not the ideal winter getaway, but there are still plenty of things you can enjoy.
 
 ### See the city
 
-- Check [Goldstar (https://www.goldstar.com)](https://www.goldstar.com) to find events that are going on in Seattle (or any major American city) and get discounts on tickets. You will need to sign up, use a credit card to pay and Goldstar will charge you a small commission (but offer discounts in return).
+- Go to [**Pike Place Market** (http://pikeplacemarket.org/)](http://pikeplacemarket.org/) and walk around. There are a lot of stores but here's what I recommend: Try the free samples of smoked salmon at one of the two fish markets, or both. You can also buy small servings of crab meat and other seafood (ever tried sea urchin?). Go to **Beecher's** to sample out the cheese and try their Mac and Cheese if you like that. Go to the original **Starbucks** store and wait in line forever to buy a cup of coffee. Make sure to check out the gum wall.
+- Check [**Goldstar** (https://www.goldstar.com)](https://www.goldstar.com) to find events that are going on in Seattle (or any major American city) and get discounts on tickets. You will need to sign up, use a credit card to pay and Goldstar will charge you a small commission (but offer discounts in return).
 - Want to learn to paint Seattle landmarks? Visit [Brush Capades (http://www.brushcapadesseattle.com/)](http://www.brushcapadesseattle.com/).
 - Like beer and ciders? In December you can go to the **Seattle Winter Brewfest**. The **Beer Junction** and **Beverage Place** in West Seattle and the **Fremont Brewing Company** and **Shilling Cider House** in Fremont.
 - Consider a visit to the [The Kush Tour (https://kushtourism.com/tours/)](https://kushtourism.com/tours/) to learn about the Marijuana business. Nothing illegal.
-- There are usually very good plays at the [ACT Theater (http://www.acttheatre.org/)](http://www.acttheatre.org/) downtown. There are lots of other theaters but ACT is my favorite. If you go on the night of the play just before it begins, tickets only cost $25 (last I checked) and there's almost always seats available.
-- The [Seattle Center (http://www.seattlecenter.com/)](http://www.seattlecenter.com/) is where the Space Needle is has events going on year-round and their website is also a good place to find other events in all of Seattle.
-- You might enjoy the [Seattle Underground Tour (http://www.undergroundtour.com/)](http://www.undergroundtour.com/) although it's a little cheesy.
+- There are usually very good plays at the [**ACT Theater** (http://www.acttheatre.org/)](http://www.acttheatre.org/) downtown. There are lots of other theaters but ACT is my favorite. If you go on the night of the play just before it begins, tickets only cost $25 (last I checked) and there's almost always seats available.
+- The [**Seattle Center** (http://www.seattlecenter.com/)](http://www.seattlecenter.com/) is where the Space Needle is has events going on year-round and their website is also a good place to find other events in all of Seattle.
+- You might enjoy the [**Seattle Underground Tour** (http://www.undergroundtour.com/)](http://www.undergroundtour.com/) although it's a little cheesy.
 - This is one I haven't done yet, but check out [http://www.seattleseaplanes.com/](http://www.seattleseaplanes.com/) to see if you're okay dishing out $100 (and up) to fly over the city on a seaplane.
 
 ### Go on a hike
@@ -24,7 +23,10 @@ There are lots of hikes, but you need a car and most good hikes are between 45 m
   - **Mount St. Hellens** is about 3.5 hours away and much more challenging, but you need to purchase a climbing permit at [www.discovernw.org](www.discovernw.org). This one you definitely have to plan ahead.
   - In the **Olympic Peninsula** I recommend checking out **Crescent Lake** and the nearby hikes. The easiest way to get to the Olympic Peninsula is by taking the **Fauntleroy-Southworth ferry** from West Seattle. It's about $20 for your vehicle and $5 per passenger to ride the ferry. On a beautiful day, riding the ferry itself is a fantastic experience.
 
-- Ride your bike around town. The easiest way to rent bikes is using [LimeBike (www.limebike.com)](www.limebike.com), where you can rent bikes for cheap. You download an app and use it to unlock the bike and you can leave them anywhere. Seattle is very hilly, so the bike ride will give you a serious workout. The main roads usually have dedicated bike lanes.
+### Ride your bike around town
+
+The easiest way to rent bikes is using [LimeBike (www.limebike.com)](www.limebike.com), where you can rent bikes for cheap. You download an app and use it to unlock the bike and you can leave them anywhere. Seattle is very hilly, so the bike ride will give you a serious workout. The main roads usually have dedicated bike lanes.
+
   - To get to Downtown by bike, the easiest way is to head north on **Delridge**, then cross the bridge (follow the riders if you feel lost) on **SW Spokane Street** and follow **E Marginal Way S** to Downtown.
 
     <div style="text-align:center"><img src ="./biking-downtown.jpg" width="700"/></div>
