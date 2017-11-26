@@ -34,6 +34,10 @@ The easiest way to rent bikes is using [LimeBike (www.limebike.com)](www.limebik
   - Biking around **Lake Union** is fun. In one day if you start early, you can cover the **Seattle Center** (where the Space Needle is), then head north on **Dexter Avenue** to **Fremont** and have a drink (the **Fremont Brewing Company** and **Shilling Cider House** are nice places for beer and cider, **Millstead** has good coffee) and something to eat (**Homegrown** is a great sandwich shop), then go to **Gas Works Park** and enjoy the view, then cross the bridge to head back South into **Eastlake** near the waterfront and from there head to **Capitol Hill** where there's a lot of restaurants and interesting shops (such as the **Elliott Bay Book Company** or **Ada's Technical Books and Cafe**).
   
     <div style="text-align:center"><img src ="./lake-union-tour.jpg" width="700"/></div>
+
+  - Stay local go for a bike ride around West Seattle. You'll see incredible views of Downtown and the Puget Sound. There are lots of good places to eat near **Alki Beach** or on **California Avenue**.
+
+    <div style="text-align:center"><img src ="./biking-west-seattle.jpg" width="700"/></div>
   
   - Consider visiting **Vashon Island**. You take the **Fauntleroy-Southworth ferry** from West Seattle and get off on Vashon Island. There is a big uphill initially but once you get to the top the rest of the bike ride is not too bad. I recommend riding the back all the way back to Maury in the South of Vashon Island and then heading back North to Downtown Vashon, where you will find some good restaurants. Make sure to take enough water and food with you. There are lots of good parks and beaches on Vashon as well. On a beautiful day, the ferry ride alone is worth it. You pay about $5 per person and don't pay extra to get your bike on the ferry. The ferry back to Seattle from Vashon is free.
 
